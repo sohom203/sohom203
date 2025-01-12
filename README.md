@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohom203&label=Profile%20views&color=0e75b6&style=flat" alt="sohom203" /> </p>
 
-**I am Sohom Ghosal, currently pursuing my Bachelors in Electronics and Communication Engineering from Dr S P Mukherjee International Institute of Information Technology, Naya Raipur, Chhattisgarh, India, and i am a research intern at Jadavpur University, Kolkata, India. My technical proficiency and interest are in, health analytics, machine learning, and deep learning. I primarily code in Python and use the TensorFlow, PyTorch, Keras, Scikit libraries for deep learning and machine learning problems. I also code in C and MATLAB. Check out my [Google Scholar](https://scholar.google.com/citations?user=Qo90KNUAAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications.**
+**I am Sohom Ghosal, currently pursuing my Bachelors in Electronics and Communication Engineering from Dr S P Mukherjee International Institute of Information Technology, Naya Raipur, Chhattisgarh, India, and i am a research intern at Jadavpur University, Kolkata, India. My technical proficiency and interest are in, health analytics, machine learning, and deep learning. I primarily code in Python and use the TensorFlow, Keras, Scikit libraries for deep learning and machine learning problems. I also code in C and MATLAB. Check out my [Google Scholar](https://scholar.google.com/citations?user=Qo90KNUAAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

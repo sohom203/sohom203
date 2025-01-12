@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohom Ghosal</h1>
-<h3 align="center">A Data Science enthusiast</h3>
+<h3 align="center">A Machine Learning and Deep Learning enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnikgh1899&label=Profile%20views&color=0e75b6&style=flat" alt="sagnikgh1899" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohom203&label=Profile%20views&color=0e75b6&style=flat" alt="sohom203" /> </p>
 
 **I am Sohom Ghosal, currently pursuing my Bachelors in Electronics and Communication Engineering from Dr S P Mukherjee International Institute of Information Technology, Naya Raipur, Chhattisgarh, India, and i am a research intern at Jadavpur University, Kolkata, India. My technical proficiency and interest are in, health analytics, machine learning, and deep learning. I primarily code in Python and use the TensorFlow, PyTorch, Keras, Scikit libraries for deep learning and machine learning problems. I also code in C and MATLAB. Check out my [Google Scholar](https://scholar.google.com/citations?user=Qo90KNUAAAAJ&hl=en) profile for a detailed understanding of my research interests and complete list of publications.**
 
